@@ -1,0 +1,168 @@
+#title{
+letter-spacing:0.09em;
+color:#60A4E9;
+font-size:30px;
+}
+#toptitle{
+	background-color:#FFFFFF;
+}
+#lg{
+	margin-left:1000px;
+	margin-top:-100px;
+}
+#bcolor{
+		background-color:#FFFFFF;
+}
+.navbar-inverse{
+		background-color:#FFFFFF;
+		border-color:#F3E5E9;
+}
+#down{
+	margin-top:60px;
+	margin-left:200px;
+
+	
+}
+input[type=text] {
+    width: 400px;
+    height:40px;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+     border-radius: 10px;
+    font-size: 12px;
+    background-color: white;
+    background-image: url('ser.png');
+	background-size: 12px 22px;
+    background-position: 10px 10px; 
+    background-repeat: no-repeat;
+    padding: 12px 20px 12px 40px;
+    -webkit-transition: width 0.4s ease-in-out;
+    transition: width 0.4s ease-in-out;
+	text-transform:capitalize;
+}
+.input1 {
+	height:200px;
+	width:900px;
+	border:2px solid #F2EEEE;
+   border-radius:10px;
+}
+.input2 {
+	height:200px;
+	width:900px;
+	border:2px solid #F2EEEE;
+    margin-top:50px;
+   border-radius:10px;
+}.input3 {
+	height:200px;
+	width:900px;
+	border:2px solid #F2EEEE;
+ margin-top:50px;
+   border-radius:10px;
+   
+}
+.btn-group{
+ margin-left:350px;
+}
+#buttonid {
+	text-align: center;
+	margin-left:-150px;
+	top:70px;
+}
+#left{
+	margin-left:-160px;
+	margin-top:-700px;
+	width:140px;
+	height:100px;
+	font-family:"Chaparral Pro Light","Adobe Fangsong Std R";
+}
+p{
+	font-family:"Chaparral Pro Light","Adobe Fangsong Std R";
+	text-transform:capitalize;
+}
+hr{
+ width:170px;
+ height:3px;
+ margin-left:-30px;
+ color:black;
+}
+.igred{
+	width:120px;
+	height:140px;
+	margin-left:20px;
+	margin-top:25px;
+}
+.sz{
+	width:20px;
+	height:20px;
+}
+.btc{
+	background-color:blue;
+}
+.btmove{
+	margin-top:-35px;
+	margin-left:350px;
+}
+.txtalign{
+	margin-top:-140px;
+	margin-left:150px;
+	text-transform:capitalize;
+	
+}
+.txtalign.c2{
+	font-weight:20px;
+}
+h5{
+	color:#ea4aef;
+}
+--
+{
+    box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+}
+
+.header {
+    background-color: #f1f1f1;
+    padding: 20px;
+    text-align: center;
+}
+
+.topnav {
+    overflow: hidden;
+    background-color: #D4D4D4;
+	margin-left:-200px;
+	
+}
+
+.topnav a {
+    float: left;
+    display: block;
+    color: #F2EEEE;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.topnav a:hover {
+    background-color: #4C6DF5;
+    color: black;
+}
+.txtalign1{
+	margin-left:680px;
+	margin-top:-120px;
+}
+.selectdocter{
+	margin-left:10px;
+}
+.badge{
+	margin-left:50px;
+}
+#footer{
+	margin-top:620px;
+	text-align:center;
+	font-size:15px;
+	color:#498bf4;
+}
+#c1{font-weight:20px; }

@@ -1,0 +1,31 @@
+$(document).ready(function(){
+			var mydata = JSON.parse(data);
+			var name1=mydata[0].name;
+			var name2=mydata[1].name;
+			var name3=mydata[2].name;
+			var edu1=mydata[0].education;
+			var edu2=mydata[1].education;
+			var edu3=mydata[2].education;
+			var dep1=mydata[0].dept;
+			var dep2=mydata[1].dept;
+			var dep3=mydata[2].dept;
+			var lan1=mydata[0].language;
+			var lan2=mydata[1].language;
+			var lan3=mydata[2].language;
+			$("#c1").text(name1);
+			$("#c2").text(name2);
+			$("#c3").text(name3);
+			$("#edu1").text(edu1);
+			$("#edu2").text(edu2);
+			$("#edu3").text(edu3);
+			$("#ad1").text(dep1);
+			$("#ad2").text(dep2);
+			$("#ad3").text(dep3);
+			$("#add1").text(lan1);
+			$("#add2").text(lan2);
+			$("#add3").text(lan3);
+		
+			//document.getElementById("id1").innerHTML=dest1;
+			//document.getElementById("id2").innerHTML=dest2;
+			//document.getElementById("id3").innerHTML=dest3;
+});
